@@ -9,8 +9,16 @@ It includes a menu for PhpMyAdmin, and a Playground where you can test your PHP 
 ## Installation
 
 Clone the repository and extract it in your projects root directory.
-
 ![Form Sample](.index/assets/fileplacement.png)
+
+# Update menu
+- You can replace the content of 'phpmyadmin' with the latest version of phpmyadmin(https://www.phpmyadmin.net/downloads/)
+- To update menu, goto [/.index/themes/bootstrap/default_header.php](/.index/themes/bootstrap/default_header.php)
+
+
+
+## Credit
+- Chris Kankiewicz directorylister for the file listing feature. http://www.directorylister.com
 
 ## Contribution is welcome
 if you have any idea or feature you want to add, you can fork the project and create a pull request.

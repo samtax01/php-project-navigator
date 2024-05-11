@@ -1,5 +1,5 @@
 <h1>
-	<a href="http://www.xamtax.com"><img src="<?php echo THEMEPATH; ?>/img/xamtax.png" /> XAMTAX </a>
+	<a href="/"> <i class="fa fa-home"></i> Home</a>
 
 	<style> a{ text-decoration: none !important; }</style>
 	<ul class="nav1bar-nav1" style="float:right; list-style-type:none; font-weight: 800; border:2px solid gray; padding:10px; border-radius:10px;">
