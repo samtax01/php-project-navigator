@@ -1,0 +1,1 @@
+<img src="https://utvadventuretours.com/wp-content/uploads/2014/08/350x250.gif" alt="" class="img-responsive">
