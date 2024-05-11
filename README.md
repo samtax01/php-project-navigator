@@ -18,7 +18,7 @@ Clone the repository and extract it in your projects root directory.
 
 
 ## Credit
-- Chris Kankiewicz directorylister for the file listing feature. http://www.directorylister.com
+- Chris Kankiewicz directorylister for the file listing feature. https://github.com/DirectoryLister/DirectoryLister
 
 ## Contribution is welcome
 if you have any idea or feature you want to add, you can fork the project and create a pull request.
