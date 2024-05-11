@@ -15,11 +15,11 @@
 	             <li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/icon/index.php"><i class="fa fa-code"></i> Icon </a></li>  <li class="divider"></li>
 				 <li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/color/index.php"><i class="fa fa-code"></i> Color </a></li>  <li class="divider"></li>
 
-					<li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/html to markdown/index.php"><i class="fa fa-code"></i> Html to Markdown </a></li>  <li class="divider"></li>
+					<li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/html-to-markdown/index.php"><i class="fa fa-code"></i> Html to Markdown </a></li>  <li class="divider"></li>
 
 
 
-					<li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/markdown to html/index.php"><i class="fa fa-code"></i> Markdown to Html </a></li>  <li class="divider"></li>
+					<li> <a target="_blank" href="/<?php echo THEMEPATH; ?>/xamtax/markdown-to-html/index.php"><i class="fa fa-code"></i> Markdown to Html </a></li>  <li class="divider"></li>
 				 
 
 
