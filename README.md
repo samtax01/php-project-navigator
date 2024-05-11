@@ -9,6 +9,10 @@ It includes a menu for PhpMyAdmin, and a Playground where you can test your PHP 
 ## Installation
 
 Clone the repository and extract it in your projects root directory.
+Then start your php server 
+```shell
+ php -S localhost:8088
+```
 ![Form Sample](.index/assets/fileplacement.png)
 
 # Update menu
